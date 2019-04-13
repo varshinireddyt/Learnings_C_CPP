@@ -12,7 +12,7 @@ Palindrome function
 - If character array is not matching then assigning flag as false. Which means it is not a palindrome
 
 
-swapping two numbers:
+swapping two numbers - Call by value:
 =======================
 - initializing x, y and mapping input values of x and y
 - created temp variable
