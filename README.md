@@ -10,3 +10,13 @@ Palindrome function
 - creating a `flag` and assigning it to `true`.
 -if character array and temp char array is same then i am not doing anything.
 - If character array is not matching then assigning flag as false. Which means it is not a palindrome
+
+
+swapping two numbers:
+=======================
+- initializing x, y and mapping input values of x and y
+- created temp variable
+- temp = x
+- x = y
+- y = temp
+- prints output.
