@@ -12,7 +12,7 @@
 #include <cstdio>
 using namespace std;
 
-// reverse of string and validating is palindrome or not.
+// reverse of string and validating is palindrome or not
 int main(int argc, const char * argv[]) {
 
     char char_string[] = "bob";
